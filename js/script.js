@@ -10,7 +10,7 @@ const myImages = [
         alt: "Three-eyed King orders swarm on defenseless Pharoah."
     },
     {
-        src: "/images/HumptyDumptyFellOfAWall.jpg",
+        src: "/images/HumptyDumptyFellOffAWall.jpg",
         description: "Humpty Dumpty fell off a wall, and the Kings attacking him fell off too.",
         alt: "Foolish Kings try to follow Sensei into the void."
     },
